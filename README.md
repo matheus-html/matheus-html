@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=8896420D57D8C7CEFDE9ADDC361AB78A.buscatextual_0](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=8896420D57D8C7CEFDE9ADDC361AB78A.buscatextual_0)
 
-- ⚡ Fun fact **I've been using a computer since I was a kid!**
+- ⚡ Fun fact **I love gaming!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
