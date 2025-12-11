@@ -12,10 +12,7 @@ Possuo base sólida em Java e C++, e atualmente estou expandindo meus horizontes
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=matheus-html&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=matheus-html&theme=dark)](https://git.io/streak-stats)
 ###
 
 <img align="right" height="150" src="222433.gif"  />
