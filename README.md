@@ -12,10 +12,7 @@ Possuo base sólida em Java e C++, e atualmente estou expandindo meus horizontes
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-html&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-html&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-html&" alt="matheus-html" /></p>
 
 ###
 
