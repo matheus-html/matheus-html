@@ -12,7 +12,7 @@ Possuo base sólida em Java e C++, e atualmente estou expandindo meus horizontes
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=matheus-html&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=matheus-html)](https://git.io/streak-stats)
 
 ###
 
@@ -48,4 +48,4 @@ Possuo base sólida em Java e C++, e atualmente estou expandindo meus horizontes
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-html&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-html" /> </p>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/matheus-html/matheus-html/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/matheus-html/matheus-html/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
