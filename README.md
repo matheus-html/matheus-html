@@ -12,7 +12,9 @@ Possuo base sólida em Java e C++, e atualmente estou expandindo meus horizontes
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-html&" alt="matheus-html" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=matheus-html&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ###
 
