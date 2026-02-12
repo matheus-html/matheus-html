@@ -2,6 +2,8 @@
 
 Graduando no 6º semestre de Ciência da Computação, focado em Engenharia de Software e Ciência de Dados. Possuo base sólida em **Java e C++**, com experiência em expandir soluções para **Elixir e Dart**.
 
+Sou entusiasta de Python, R e SQL, utilizando essas ferramentas para transformar dados em decisões. Desenvolvi uma análise descritiva sobre Crimes Violentos Letais Intencionais (CVLI) no Ceará (2020-2024) em R e em LaTeX no OverLeaf, mapeando dinâmicas criminais para apoiar a criação de políticas públicas eficazes.
+
 ---
 
 ### 🛠️ Projetos em Destaque
