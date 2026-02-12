@@ -18,9 +18,13 @@ Graduando no 6º semestre de Ciência da Computação, focado em Engenharia de S
 
 ---
 
-### 🗣️ Comunicação e Impacto
+### 🧠 Soft Skills & Habilidades Interpessoais
 
-Com um ano de experiência em **Licenciatura na Computação**, especializei-me em traduzir conceitos técnicos complexos em uma linguagem clara e acessível para o negócio.
+* **Comunicação Assertiva e Oratória:** Habilidade em traduzir conceitos técnicos complexos para diferentes públicos, lapidada em 1 ano de Licenciatura e na Trilha Formativa de Comunicação.
+* **Raciocínio Lógico:** Capacidade analítica avançada para resolução de problemas e estruturação de algoritmos.
+* **Relacionamento Interpessoal:** Experiência em colaboração e trabalho em equipe em ambientes de imersão profissional.
+* **Inglês para TIC:** Proficiência voltada para o mercado de tecnologia, documentação e comunicação profissional.
+* **Inovação e Empreendedorismo:** Mentalidade focada em criar soluções eficientes e gerar valor para o negócio.
 
 ---
 
