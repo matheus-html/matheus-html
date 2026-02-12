@@ -1,6 +1,31 @@
-<h2 align="left">Olá, Matheus aqui!👋</h2>
-Estudante de Ciência da Computação focado em Engenharia de Software e Desenvolvimento Back-end.
-Possuo base sólida em Java e C++, e atualmente estou expandindo meus horizontes com programação funcional em Elixir e Dart. Gosto de desafios que envolvem lógica complexa, algoritmos e banco de dados (SQL).
+# Olá, Matheus aqui! 👋
+
+Graduando no 6º semestre de Ciência da Computação, focado em Engenharia de Software e Ciência de Dados. Possuo base sólida em **Java e C++**, com experiência em expandir soluções para **Elixir e Dart**.
+
+---
+
+### 🛠️ Projetos em Destaque
+
+* **[ByteBistro](https://github.com/matheus-html/ByteBistro)**: Sistema completo de gerenciamento de restaurante desenvolvido em **Java Swing**, utilizando **SQL** para persistência e gestão robusta de dados.
+
+---
+
+### 🎓 Formação e Certificações
+
+* **Residência em TIC 2.0 - Programação iOS (IFCE)**: Formação de 480 horas focada em prototipagem e produtos de software.
+* **Python Essentials (Cisco Networking Academy)**: Certificação em lógica e manipulação de dados.
+* **Habilidades Interpessoais (IFCE)**: Capacitação em comunicação, raciocínio lógico e relacionamento interpessoal.
+
+---
+
+### 🗣️ Comunicação e Impacto
+
+Com um ano de experiência em **Licenciatura na Computação**, especializei-me em traduzir conceitos técnicos complexos em uma linguagem clara e acessível para o negócio.
+
+---
+
+### 📈 Estatísticas do GitHub
+![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=matheus-html&show_icons=true&theme=radical)
 
 ###
 
