@@ -1,31 +1,13 @@
 # Olá, Matheus aqui! 👋
 
-Graduando no 6º semestre de Ciência da Computação, focado em Engenharia de Software e Ciência de Dados. Possuo base sólida em **Java e C++**, com experiência em expandir soluções para **Elixir e Dart**.
+Estudante do 6º semestre de Ciência da Computação. 
 
-Sou entusiasta de Python, R e SQL, utilizando essas ferramentas para transformar dados em decisões.
+Possuo base sólida em **Java e Python**.
 ---
 
 ### 🛠️ Projetos em Destaque
 
 * **[ByteBistro](https://github.com/matheus-html/ByteBistro)**: Sistema completo de gerenciamento de restaurante desenvolvido em **Java Swing**, utilizando **SQL** para persistência e gestão robusta de dados.
-
----
-
-### 🎓 Formação e Certificações
-
-* **Residência em TIC 2.0 - Programação iOS (IFCE)**: Formação de 480 horas focada em prototipagem e produtos de software.
-* **Python Essentials (Cisco Networking Academy)**: Certificação em lógica e manipulação de dados.
-* **Habilidades Interpessoais (IFCE)**: Capacitação em comunicação, raciocínio lógico e relacionamento interpessoal.
-
----
-
-### 🧠 Soft Skills & Habilidades Interpessoais
-
-* **Comunicação Assertiva e Oratória:** Habilidade em traduzir conceitos técnicos complexos para diferentes públicos, lapidada em 1 ano de Licenciatura e na Trilha Formativa de Comunicação.
-* **Raciocínio Lógico:** Capacidade analítica avançada para resolução de problemas e estruturação de algoritmos.
-* **Relacionamento Interpessoal:** Experiência em colaboração e trabalho em equipe em ambientes de imersão profissional.
-* **Inglês para TIC:** Proficiência voltada para o mercado de tecnologia, documentação e comunicação profissional.
-* **Inovação e Empreendedorismo:** Mentalidade focada em criar soluções eficientes e gerar valor para o negócio.
 
 ---
 
