@@ -9,14 +9,6 @@ Possuo base sólida em **Java e Python**.
 
 * **[ByteBistro](https://github.com/matheus-html/ByteBistro)**: Sistema completo de gerenciamento de restaurante desenvolvido em **Java Swing**, utilizando **SQL** para persistência e gestão robusta de dados.
 
----
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/matheus-html/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=matheus-html&theme=dracula)](https://git.io/streak-stats)
