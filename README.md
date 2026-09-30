@@ -1,6 +1,6 @@
 # Olá, Matheus aqui! 👋
 
-Estudante do 6º semestre de Ciência da Computação. 
+Estudante de Ciência da Computação. 
 
 Possuo base sólida em **Java e Python**.
 ---
