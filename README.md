@@ -2,7 +2,7 @@
 
 Estudante de Ciência da Computação. 
 
-Possuo base sólida em **Java e Python**.
+Amo **Java e Python**.
 ---
 
 ### 🛠️ Projetos em Destaque
